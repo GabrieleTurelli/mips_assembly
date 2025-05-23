@@ -1,6 +1,6 @@
 # MIPS Assembly Examples
 
-Questa repository contiene diversi esempi di programmi scritti in `Assembly MIPS`, suddivisi per argomento:
+Questa repository contiene qualche esercizio in `Assembly MIPS`, suddivisi per argomento:
 
 ## Struttura delle cartelle
 
